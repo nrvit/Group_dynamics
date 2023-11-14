@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\GrDik\GrDik\bin\Debug\net6.0-windows\GrDik.exe
+C:\Users\anton\source\repos\GrDik\GrDik\bin\Debug\net6.0-windows\GrDik.deps.json
+C:\Users\anton\source\repos\GrDik\GrDik\bin\Debug\net6.0-windows\GrDik.runtimeconfig.json
+C:\Users\anton\source\repos\GrDik\GrDik\bin\Debug\net6.0-windows\GrDik.dll
+C:\Users\anton\source\repos\GrDik\GrDik\bin\Debug\net6.0-windows\GrDik.pdb
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.Form1.resources
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.AssemblyInfo.cs
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.dll
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\refint\GrDik.dll
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.pdb
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\GrDik.genruntimeconfig.cache
+C:\Users\anton\source\repos\GrDik\GrDik\obj\Debug\net6.0-windows\ref\GrDik.dll
